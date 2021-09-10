@@ -24,7 +24,7 @@
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Davi-PHP" height="30" width="40" src="ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
-  
+  <br/>
  <div> 
   <a href="https://www.youtube.com/watch?v=TsaLQAetPLU&t=211s" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/davicarvalhogtr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
