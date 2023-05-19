@@ -1,7 +1,7 @@
 ### Olá! Eu sou Davi Carvalho 👋
 
 - 🔭 Atualmente trabalho com desenvolvimento web..
-- 🌱 Estou estudando Python, Java Script e Php
+- 🌱 Sou um desenvolvedor Node Js, Laravel, Php
 - 📫 Contate-me em davicarvalho34@hotmail.com
 
 
